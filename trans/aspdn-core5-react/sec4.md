@@ -1,6 +1,6 @@
 # 第四部分：投入生产
 
-在最后一节中，我们将向 ASP.NET Core和 React 应用添加自动测试。我们将使用 Visual Studio 和 Visual Studio 代码将应用部署到 Azure，然后通过在 Azure DevOps 中实现构建和发布管道来完全自动化部署。
+在最后一节中，我们将向 ASP.NET Core 和 React 应用添加自动测试。我们将使用 Visual Studio 和 Visual Studio 代码将应用部署到 Azure，然后通过在 Azure DevOps 中实现构建和发布管道来完全自动化部署。
 
 本节包括以下章节：
 

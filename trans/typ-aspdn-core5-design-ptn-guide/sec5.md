@@ -6,5 +6,5 @@
 
 本节包括以下章节：
 
-*   [*第 17 章*](17.html#_idTextAnchor325)*ASP.NET Core用户界面*
-*   [*第 18 章*](18.html#_idTextAnchor348)*Blazor简介*
+*   [*第 17 章*](17.html#_idTextAnchor325)*ASP.NET Core 用户界面*
+*   [*第 18 章*](18.html#_idTextAnchor348)*Blazor 简介*

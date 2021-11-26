@@ -4,5 +4,5 @@
 
 本节包括以下章节：
 
-*   [*第一章*](01.html#_idTextAnchor020)*了解 ASP.NET 5 React模板*
+*   [*第一章*](01.html#_idTextAnchor020)*了解 ASP.NET 5 React 模板*
 *   [*第 2 章*](02.html#_idTextAnchor041)*创建解耦 React 和 ASP.NET 5 应用*

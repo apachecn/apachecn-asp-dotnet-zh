@@ -4,8 +4,8 @@
 
 本节包括以下章节：
 
-*   [*第一章*](01.html#_idTextAnchor017)*ASP.NET Core介绍 5*
+*   [*第一章*](01.html#_idTextAnchor017)*ASP.NET Core 介绍 5*
 *   [*第二章*](02.html#_idTextAnchor038)*跨平台设置*
 *   [*第三章*](03.html#_idTextAnchor063)*依赖注入*
-*   [*第 4 章*](04.html#_idTextAnchor089)*Razor视图引擎*
+*   [*第 4 章*](04.html#_idTextAnchor089)*Razor 视图引擎*
 *   [*第五章*](05.html#_idTextAnchor118)*开始使用 Blazor*
