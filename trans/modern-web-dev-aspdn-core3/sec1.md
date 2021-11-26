@@ -1,4 +1,4 @@
-Section 1: The Fundamentals of ASP.NET Core 3
+# 第一部分：ASP.NET Core 3 基础
 
 第一部分将介绍 ASP.NET Core和**模型视图控制器**（**MVC**）模式的基本原理，以及两者如何结合，并将探讨.NET Core及其概念。
 
