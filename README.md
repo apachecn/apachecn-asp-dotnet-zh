@@ -20,6 +20,16 @@
 +   [精通 ASP.NET Web API](docs/master-aspdn-web-api/SUMMARY.md)
 +   [ASP.NET Core3 现代 Web 开发](docs/modern-web-dev-aspdn-core3/SUMMARY.md)
 +   [ASP.NET Core5 典型设计模式指南](docs/typ-aspdn-core5-design-ptn-guide/SUMMARY.md)
++   [ASP.NET Core 基础知识](docs/aspdn-core-essense/SUMMARY.md)
++   [ASP.NET Core 和 VueJS](docs/aspdn-core-vue/SUMMARY.md)
++   [ASP.NET jQuery 秘籍](docs/aspdn-jq-cb/SUMMARY.md)
++   [ASP.NET MVC Core2 秘籍](docs/aspdn-mvc-core2-cb/SUMMARY.md)
++   [ASP.NET Web API](docs/aspdn-web-api/SUMMARY.md)
++   [ASP.NET Web API 安全基础知识](docs/aspdn-web-api-sec-essense/SUMMARY.md)
++   [构建 ASP.NET REST Web 服务](docs/build-rest-websvc-dnet-core/SUMMARY.md)
++   [ASP.NET Core2 学习手册](docs/learn-aspdn-core2/SUMMARY.md)
++   [ASP.NET MVC 编程学习手册](docs/learn-aspdn-mvc-prog/SUMMARY.md)
++   [.NET 移动开发](docs/mobi-dev-dnet/SUMMARY.md)
 
 ## 贡献指南
 
