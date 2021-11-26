@@ -5,5 +5,5 @@
 本节包含以下章节:
 
 *   [*第九章*](09.html#_idTextAnchor177)*处理数据。NET 5*
-*   [*第十章*](10.html#_idTextAnchor202)*创建 ASP.NET 核心 5 网络应用编程接口*
+*   [*第十章*](10.html#_idTextAnchor202)*创建 ASP.NET Core 5 网络应用编程接口*
 *   [*第十一章*](11.html#_idTextAnchor228)*打造 ASP.NET**核心* *5 Web 应用*
