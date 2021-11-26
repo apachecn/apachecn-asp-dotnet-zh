@@ -1,6 +1,6 @@
 # 第三节:前端开发
 
-本节讨论开发 Vue.js 3 应用程序的真实场景。 本节包括以下章节:
+本节讨论开发 Vue.js 3 应用的真实场景。 本节包括以下章节:
 
 *   [*第十一章*](11.html#_idTextAnchor219)，*Vue.js 在 Todo App 中的基本原理*
 *   [*第十二章*](12.html#_idTextAnchor247)，*Using a UI Component Library and Creating Routes and navigation*
