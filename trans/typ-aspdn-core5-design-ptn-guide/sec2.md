@@ -1,4 +1,4 @@
-# 第二节：ASP.NET Core设计
+# 第二部分：ASP.NET Core设计
 
 本节介绍 ASP.NET Core 5**模型视图控制器**（**MVC**）及其对应的 web API。我们探索 Razor 页面、MVC 和基于 HTTP 的 RESTful 服务。然后，我们将探讨一些更高级的技术，这些技术用于进一步推动 MVC 模式，例如视图模型和数据传输对象。
 
