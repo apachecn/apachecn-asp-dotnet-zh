@@ -41,4 +41,4 @@ apachecn-asp-dotnet-zh <port>
 
 ## 赞助我们
 
-![](http://data.apachecn.org/img/about/donate.jpg)
+![](img/http://data.apachecn.org/img/about/donate.jpg)
