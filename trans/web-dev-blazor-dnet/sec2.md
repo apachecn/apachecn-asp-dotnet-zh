@@ -5,8 +5,8 @@
 本节包括以下章节:
 
 *   [*第三章*](03.html#_idTextAnchor048)*引入实体框架核心*
-*   [*第四章*](04.html#_idTextAnchor060)*了解基本Blazor组件*
-*   [*第五章*](05.html#_idTextAnchor078)*创建高级Blazor组件*
+*   [*第四章*](04.html#_idTextAnchor060)*了解基本 Blazor 组件*
+*   [*第五章*](05.html#_idTextAnchor078)*创建高级 Blazor 组件*
 *   [*第六章*](06.html#_idTextAnchor093)*建筑形式验证*
 *   [*第七章*](07.html#_idTextAnchor115)*创建 API*
 *   [*第八章*](08.html#_idTextAnchor122)*认证授权*
