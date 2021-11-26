@@ -6,5 +6,5 @@
 
 本节包括以下章节：
 
-*   [*第 17 章*](17.html#_idTextAnchor325)*ASP.NET 核心用户界面*
+*   [*第 17 章*](17.html#_idTextAnchor325)*ASP.NET Core用户界面*
 *   [*第 18 章*](18.html#_idTextAnchor348)*布拉佐简介*

@@ -7,5 +7,5 @@
 *   [第 4 章](04.html)、*通过自定义应用实现 ASP.NET Core 3 的基本概念：第 1 部分*
 *   [第 5 章](05.html)、*通过自定义应用实现 ASP.NET Core 3 的基本概念：第 2 部分*
 *   [第 6 章](06.html)*介绍剃须刀组件及信号机*
-*   [第 7 章](07.html)*创建 ASP.NET 核心 MVC 应用*
+*   [第 7 章](07.html)*创建 ASP.NET Core MVC 应用*
 *   [第 8 章](08.html)*创建 Web API 应用*
