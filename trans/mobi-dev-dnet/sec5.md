@@ -1,4 +1,4 @@
-# 第 5 节:应用生命周期管理
+# 第五部分：应用生命周期管理
 
 当我们谈到。net Core 和 Xamarin 时，Azure DevOps 和 Visual Studio App Center 是应用生命周期管理的两大支柱。 Azure DevOps，以前称为 Visual Studio Online 或 Team Services，为实现 DevOps 原则提供了一个完整的套件，而 App Center 则充当移动应用开发、测试和部署的指挥中心。 使用这些工具，开发人员和操作团队可以实现健壮且高效的交付管道，可以将应用源从存储库带到生产环境中。
 
