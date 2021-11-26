@@ -1,6 +1,6 @@
-# 使用 .NET Core 2.0 构建微服务
+# 使用 Kendo UI Mobile 和 ASP.NET Web API  构建移动应用
 
-> 原文：[Building Microservices with .NET Core 2.0](https://libgen.rs/book/index.php?md5=E27F7F225A7308374E09ABE5C1F861D8)
+> 原文：[Building Mobile Applications Using Kendo UI Mobile and ASP.NET Web API](https://libgen.rs/book/index.php?md5=87637682BFA1999977D4C245D71BB7FC)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
