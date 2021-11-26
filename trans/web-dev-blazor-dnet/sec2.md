@@ -1,4 +1,4 @@
-# 第 2 部分:使用 Blazor 构建应用程序
+# 第 2 部分:使用 Blazor 构建应用
 
 在本节中，您将学习 Razor 语法、验证表单、构建和共享组件、理解依赖注入，以及从 JavaScript 调用 JavaScript 和 C#等。
 
