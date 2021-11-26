@@ -30,6 +30,15 @@
 +   [ASP.NET Core2 学习手册](docs/learn-aspdn-core2/SUMMARY.md)
 +   [ASP.NET MVC 编程学习手册](docs/learn-aspdn-mvc-prog/SUMMARY.md)
 +   [.NET 移动开发](docs/mobi-dev-dnet/SUMMARY.md)
++   [ASP.NET Core2 高性能](docs/aspdn-core2-hiperf/SUMMARY.md)
++   [ASP.NET MVC4 移动应用开发](docs/aspdn-mvc4-mobi-app-dev/SUMMARY.md)
++   [Blazor WebAssembly 示例](docs/blazor-webasm-exam/SUMMARY.md)
++   [ASP.NET MVC 和 Bootstrap](docs/boots-aspdn-mvc-2e/SUMMARY.md)
++   [使用 Kendo UI Mobile 和 ASP.NET Web API  构建移动应用](docs/build-mobi-app-kendo-ui-mobi/SUMMARY.md)
++   [C#8 和 .NET Core3 Azure 项目](docs/cs8-dnet-core3-proj-azure/SUMMARY.md)
++   [C#9 和 .NET5 企业级应用开发](docs/enter-app-dev-cs9-dnet5/SUMMARY.md)
++   [C#8 和 .NET Core3 微服务实用手册](docs/handson-microsvc-cs8-dnet-core3/SUMMARY.md)
++   [Blazor 和 .NET Web 开发](docs/web-dev-blazor-dnet/SUMMARY.md)
 
 ## 贡献指南
 
