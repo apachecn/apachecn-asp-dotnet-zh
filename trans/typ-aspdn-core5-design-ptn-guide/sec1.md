@@ -7,5 +7,5 @@
 本节包括以下章节：
 
 *   [*第一章*](01.html#_idTextAnchor015)、*.NET 简介*
-*   [*第 2 章*](02.html#_idTextAnchor030)*测试您的 ASP.NET 核心应用程序*
+*   [*第 2 章*](02.html#_idTextAnchor030)*测试您的 ASP.NET 核心应用*
 *   [*第三章*](03.html#_idTextAnchor042)*建筑原则*
